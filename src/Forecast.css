@@ -1,0 +1,4 @@
+.col-2 {
+  min-width: 20%;
+  border-left: red solid 1px;
+}

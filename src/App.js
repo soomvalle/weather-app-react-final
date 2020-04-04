@@ -1,14 +1,18 @@
 import React from "react";
 import "./App.css";
 
+import Search from "./Search";
+import CurrentInfo from "./CurrentInfo";
+import Temperature from "./Temperature";
+import Forecast from "./Forecast";
 import Footer from "./Footer";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Weather App</h1>
-        <Footer />
+        <Weather />
       </div>
     </div>
   );

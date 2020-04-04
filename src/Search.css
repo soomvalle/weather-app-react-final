@@ -1,0 +1,15 @@
+.Search {
+  width: 500px;
+  display: block;
+  margin: 0 auto;
+}
+
+.Search .btn {
+  background-color: red;
+  display: block;
+  align-items: center;
+}
+
+.Search .input-filed {
+  width: 500px;
+}
